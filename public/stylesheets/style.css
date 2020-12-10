@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.div1{
+	border: 1px double blue;
+	border-radius: 3px;
+	background-color: #429174FF;
+}
+.div2{
+	width: 500px;
+    height: 300px;
+	border: 1px solid green;
+	border-radius: 3px;
+	background-color: #4456BAFF;
+}
+#div11{
+	border: 1px solid green;
+	border-radius: 3px;
+	background-color: #4456BAFF;
+}
+.maincomp{
+	display: flex;
+}
